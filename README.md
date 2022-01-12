@@ -1,3 +1,2 @@
-#my repo 
-My repo
-Commet to my branch 
+Ederson Villamizar BYU @ Idaho
+Repo for CSE 210
