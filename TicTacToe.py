@@ -1,4 +1,4 @@
-#Created by Ederson Villamizar
+#Created by Ederson Villamizar BYU-Idaho
 #Tic-Tac-Toe
 
 def main ():
