@@ -23,16 +23,9 @@ class Die:
         Args:
             self (Die): An instance of Die.
         """
-        min_value = 1
-        max_value = 6
-        self.value = random.randint(min_value, max_value)
-        
-        if self.value == 1 :
-            self.points == 100
-        if self.value == 5:
-            self.points == 50
-        else:
-            self.points == 0 
+       
+        self.value = 0
+        self.points = 0 
 
 
 # 3) Create the roll(self) method. Use the following method comment.
@@ -42,7 +35,10 @@ class Die:
         Args:
             self (Die): An instance of Die.
         """
-        for i in 5:
-            self.roll = self.value()
-            self.points ()
-
+        self.value = random.randint(1,6)
+        if self.value == 1 :
+            self.points == 100
+        if self.value == 5:
+            self.points == 50
+        else:
+            self.points == 0 
