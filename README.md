@@ -1,1 +1,2 @@
-# cse210-01
+Ederson Villamizar BYU @ Idaho
+Repo for CSE 210
