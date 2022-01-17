@@ -45,5 +45,4 @@ class Die:
         for i in 5:
             self.roll = self.value()
             self.points ()
-            
 
